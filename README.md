@@ -7,6 +7,8 @@ https://doi.org/10.1145%2F3065386
 https://arxiv.org/abs/1312.6114
 * 2013 - Word2Vec (NLP) <br>
 https://arxiv.org/abs/1301.3781
+* 2013 - R-CNN (object detection) <br>
+https://arxiv.org/abs/1311.2524
 * 2013 - Playing Atari with Deep Reinforcement Learning (RL) <br>
 https://arxiv.org/abs/1312.5602
 * 2014 - VGG (CV)
@@ -16,17 +18,28 @@ https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
 * 2014 - XGBoost <br>
 https://arxiv.org/abs/1603.02754
 * 2014 - Apache Spark
-
+* 2014 - Inception v1 (CV) <br>
+https://arxiv.org/abs/1409.4842
 * 2015 - U-Net (CV)
 * 2015 - ResNet (CV)
+* 2015 - Fast R-CNN (object detection) <br>
+https://arxiv.org/abs/1504.08083
+* 2015 - Faster R-CNN (object detection) <br>
+https://arxiv.org/abs/1506.01497
+* 2015 - YOLO (object detection) <br>
+https://arxiv.org/abs/1506.02640
 * 2015 - the idea of diffusion for generative modeling <br>
 https://arxiv.org/abs/1503.03585
 * 2015 - Batch normalization <br>
 https://arxiv.org/abs/1502.03167
+* 2015 - Inception v2 and Inception v3 (CV) <br>
+https://arxiv.org/abs/1512.00567
 * 2015 - AlphaGo versus Fan Hui (RL)
-* 2016 -  LightGBM 
 * 2016 - AlphaGo versus Lee Sedol (RL) <br>
- Becomes the first program to master Go using neural networks and tree search.
+Becomes the first program to master Go using neural networks and tree search.
+* 2016 - LightGBM 
+* 2016 - Inception v4 and Inception-ResNet (CV) <br>
+https://arxiv.org/abs/1602.07261
 * 2017 - CatBoost <br>
 https://arxiv.org/abs/1706.09516
 * 2017 - AlphaGo Zero (RL) <br>
@@ -58,12 +71,16 @@ https://doi.org/10.1038%2Fs41586-020-03051-4
 * 2019 - Denoising Diffusion Probabilistic Models (DDPM) <br>
 https://arxiv.org/abs/1907.05600 <br>
 https://arxiv.org/abs/2006.11239
+* 2019 - wav2vec (speech recognition) <br>
+https://arxiv.org/abs/1904.05862
 * 2019 - AI Dungeon (game based on GPT) <br>
 https://aidungeon.io/ <br>
 https://github.com/Latitude-Archives/AIDungeon
 * 2019 - Megatron-LM - 1 (NLP) <br>
 https://arxiv.org/abs/1909.08053
 * 2020 - GPT-3 (NLP)
+* 2020 - wav2vec 2.0 (speech recognition) <br>
+https://arxiv.org/abs/2006.11477
 * 2020 - Agent57 (play Atari) <br>
 https://arxiv.org/abs/2003.13350
 * 2020 - AlphaFold 2 (predictions of protein structure)
