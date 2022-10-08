@@ -17,7 +17,11 @@ https://arxiv.org/abs/1312.5602
 https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
 * 2014 - XGBoost <br>
 https://arxiv.org/abs/1603.02754
+* 2014 - Spatial Pyramid Pooling (SPP) <br>
+https://arxiv.org/abs/1406.4729
 * 2014 - Apache Spark
+* 2014 - DeepLab (semantic segmentation) <br>
+https://arxiv.org/abs/1412.7062
 * 2014 - Inception v1 (CV) <br>
 https://arxiv.org/abs/1409.4842
 * 2015 - U-Net (CV)
@@ -38,10 +42,16 @@ https://arxiv.org/abs/1512.00567
 * 2016 - AlphaGo versus Lee Sedol (RL) <br>
 Becomes the first program to master Go using neural networks and tree search.
 * 2016 - LightGBM 
+* 2016 - Feature Pyramid Network (FPN) (object detection) <br>
+https://arxiv.org/abs/1612.03144
+* 2016 - DeepLabv2 (semantic segmentation) <br>
+https://arxiv.org/abs/1606.00915
 * 2016 - Inception v4 and Inception-ResNet (CV) <br>
 https://arxiv.org/abs/1602.07261
 * 2017 - CatBoost <br>
 https://arxiv.org/abs/1706.09516
+* 2017 - DeepLabv3 (semantic segmentation) <br>
+https://arxiv.org/abs/1706.05587 
 * 2017 - AlphaGo Zero (RL) <br>
 learns to play completely on its own, without human knowledge. <br>
 https://doi.org/10.1038%2Fnature24270
@@ -62,6 +72,8 @@ https://arxiv.org/abs/1801.06146
 * 2018 - BERT (NLP) <br>
 https://arxiv.org/abs/1810.04805
 * 2018 - GPT (NLP)
+* 2018 - Mask R-CNN (instance segmentation) <br>
+https://arxiv.org/abs/1703.06870
 * 2018 - AlphaFold 1 (predictions of protein structure)
 * 2019 - AlphaStar (play StarCraft II)
 * 2019 - MuZero (RL) <br>
@@ -105,3 +117,5 @@ https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 * https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence
 * Compute Trends Across Three Eras of Machine Learning <br>
 https://ar5iv.labs.arxiv.org/html/2202.05924
+* deep learning object detection <br>
+https://github.com/hoya012/deep_learning_object_detection
