@@ -107,6 +107,8 @@ https://arxiv.org/abs/2205.05198
 * 2022 - DeepNash (play Stratego) <br>
 Game-tree complexity of Stratego is greater than in the Go game. <br>
 https://arxiv.org/abs/2206.15378
+* 2022 - Stable Diffusion (text to image) <br>
+https://github.com/CompVis/stable-diffusion
 * 2022 - AlphaTensor (matrix multiplication) <br>
 https://www.nature.com/articles/s41586-022-05172-4
 
