@@ -116,7 +116,7 @@ https://github.com/CompVis/stable-diffusion
 * 2022 - AlphaTensor (matrix multiplication) <br>
 https://www.nature.com/articles/s41586-022-05172-4
 * 2022 - Stable Diffusion Version 2 (text to image)<br>
-https://github.com/Stability-AI/stablediffusion
+https://github.com/Stability-AI/stablediffusion <br>
 https://stability.ai/blog/stable-diffusion-v2-release
 * 2022 - ChatGPT (NLP) <br>
 https://openai.com/blog/chatgpt/
