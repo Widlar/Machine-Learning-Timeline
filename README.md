@@ -96,12 +96,16 @@ https://arxiv.org/abs/2006.11477
 * 2020 - Agent57 (play Atari) <br>
 https://arxiv.org/abs/2003.13350
 * 2020 - AlphaFold 2 (predictions of protein structure)
-* 2021 - DALL-E
+* 2021 - DALL-E (text to image) <br>
+https://openai.com/blog/dall-e/
 * 2021 - Megatron-LM - 2 (NLP) <br>
 https://arxiv.org/abs/2104.04473
 * 2022 - AlphaCode (code generation) <br>
 https://arxiv.org/abs/2203.07814
-* 2022 - DALL-E 2
+* 2022 - DALL-E 2 (text to image) <br>
+https://openai.com/dall-e-2/
+* 2022 - Midjourney (text to image) <br>
+https://www.midjourney.com/
 * 2022 - Megatron-LM - 3 (NLP) <br>
 https://arxiv.org/abs/2205.05198
 * 2022 - DeepNash (play Stratego) <br>
@@ -111,11 +115,17 @@ https://arxiv.org/abs/2206.15378
 https://github.com/CompVis/stable-diffusion
 * 2022 - AlphaTensor (matrix multiplication) <br>
 https://www.nature.com/articles/s41586-022-05172-4
+* 2022 - Stable Diffusion Version 2 (text to image)<br>
+https://github.com/Stability-AI/stablediffusion
+https://stability.ai/blog/stable-diffusion-v2-release
+* 2022 - ChatGPT (NLP) <br>
+https://openai.com/blog/chatgpt/
 
-  
 # Bibliography
 * Key Papers in Deep RL <br>
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+* RL Taxonomy <br>
+https://github.com/bennylp/RL-Taxonomy
 * https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence
 * Compute Trends Across Three Eras of Machine Learning <br>
 https://ar5iv.labs.arxiv.org/html/2202.05924
