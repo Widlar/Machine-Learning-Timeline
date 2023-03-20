@@ -122,7 +122,7 @@ https://github.com/Stability-AI/stablediffusion <br>
 https://stability.ai/blog/stable-diffusion-v2-release
 * 2022 - ChatGPT (NLP) <br>
 https://openai.com/blog/chatgpt/
-* 20233 - GPT-4 (NLP) <br>
+* 2023 - GPT-4 (NLP) <br>
 https://openai.com/research/gpt-4 <br>
 https://arxiv.org/abs/2303.08774
 
