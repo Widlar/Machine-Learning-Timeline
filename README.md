@@ -122,9 +122,15 @@ https://github.com/Stability-AI/stablediffusion <br>
 https://stability.ai/blog/stable-diffusion-v2-release
 * 2022 - ChatGPT (NLP) <br>
 https://openai.com/blog/chatgpt/
+* 2023 - LLaMA (NLP) <br>
+https://arxiv.org/abs/2302.13971 <br>
+https://github.com/facebookresearch/llama <br>
+https://github.com/ggerganov/llama.cpp <br>
+https://github.com/antimatter15/alpaca.cpp
 * 2023 - GPT-4 (NLP) <br>
 https://openai.com/research/gpt-4 <br>
 https://arxiv.org/abs/2303.08774
+
 
 # Bibliography
 * Key Papers in Deep RL <br>
