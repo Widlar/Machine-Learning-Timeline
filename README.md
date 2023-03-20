@@ -96,6 +96,8 @@ https://arxiv.org/abs/2006.11477
 * 2020 - Agent57 (play Atari) <br>
 https://arxiv.org/abs/2003.13350
 * 2020 - AlphaFold 2 (predictions of protein structure)
+* 2020 - 15.ai (text to speech) <br>
+https://15.ai/ 
 * 2021 - DALL-E (text to image) <br>
 https://openai.com/blog/dall-e/
 * 2021 - Megatron-LM - 2 (NLP) <br>
@@ -120,6 +122,9 @@ https://github.com/Stability-AI/stablediffusion <br>
 https://stability.ai/blog/stable-diffusion-v2-release
 * 2022 - ChatGPT (NLP) <br>
 https://openai.com/blog/chatgpt/
+* 20233 - GPT-4 (NLP) <br>
+https://openai.com/research/gpt-4 <br>
+https://arxiv.org/abs/2303.08774
 
 # Bibliography
 * Key Papers in Deep RL <br>
